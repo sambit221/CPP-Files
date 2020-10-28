@@ -6,6 +6,7 @@ using namespace std;
 int main() {
 	// your code goes here
 	int a;
+	cout<<"Enter a number :"<<endl;
 	cin>>a;
 	if(a%4==0){
 	    a++;
